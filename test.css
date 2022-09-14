@@ -22,3 +22,12 @@ body{
     margin: 0;
     padding: 0;
 }
+@media screen and (min-width : 400px ) {
+    .petite-div{
+        height : 30vh;
+        
+    }
+    .grosse-div{
+        height: 150vh;
+    }
+}
