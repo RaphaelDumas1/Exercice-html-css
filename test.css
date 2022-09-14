@@ -1,0 +1,24 @@
+.grosse-div{
+    margin: 10vw;
+    height : 200vh;
+    background-color: red;
+    padding-top: 15vh;
+    padding-bottom: 15vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap : 15vh;
+}
+.petite-div{
+    height : 40vh;
+    background-color: #00ffff;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    padding-top: 15vh;
+    padding-bottom: 15vh;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
